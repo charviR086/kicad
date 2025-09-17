@@ -1,12 +1,12 @@
-# ⚡ Buck Converter PCB – Task 2 (Boltz R&D)  
-Hi 👋 this is my submission for **Task 2** at **Boltz R&D**.  
+#  Buck Converter PCB – Task 2 (Boltz R&D)  
+Hi, this is my submission for **Task 2** at **Boltz R&D**.  
 I designed a **Buck Converter PCB** using the **LMR51450** IC.  
-## 📂 What’s inside  
+#tools 
 - Circuit schematic (KiCad)  
 - PCB layout  
 - Gerber + drill files (for fabrication)  
 - 3D board preview  
-## ⚙️ Design Details  
+##details 
 - Input: 10V – 35V  
 - Output: ~7.6V  
 - IC: LMR51450 (Texas Instruments)  
